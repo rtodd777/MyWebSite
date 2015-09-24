@@ -1,0 +1,1020 @@
+
+        R. Todd Stephens, Ph.D.
+
+Toggle navigation R. Todd Stephens, Ph.D. <#>
+
+  * home <#intro>
+  * Profile <#profile>
+  * Publications <#services>
+  * Resume <#resume>
+  * Evolution of Design <#portfolio>
+  * Favorite Things <#favorite>
+
+
+  Logo    Welcome, I'm Todd Stephens
+
+
+    Academic Author.
+
+<#profile>
+//
+
+
+          todd@rtodd.com <mailto:todd@rtodd.com>
+
+//
+
+
+          Download Resume <assets/pdf/Resume.pdf>
+
+//
+
+
+          Download Visual Resume <assets/pdf/VisualResume.pdf>
+
+//
+
+
+          Download CV <assets/pdf/CV.pdf>
+
+//
+
+Joined Google Scholar this weekend. Noticed that I have 133 Citations.
+Not bad for a Non-Professor.
+
+Posted 9 hours ago
+
+// <https://twitter.com/intent/tweet?in_reply_to=551935898229940224>//
+<https://twitter.com/intent/retweet?tweet_id=551935898229940224>//
+<https://twitter.com/intent/favorite?tweet_id=551935898229940224>
+
+Can I open my eyes yet? Yes, How About Them Cowboys!!!
+
+Posted 9 hours ago
+
+// <https://twitter.com/intent/tweet?in_reply_to=551934423852384256>//
+<https://twitter.com/intent/retweet?tweet_id=551934423852384256>//
+<https://twitter.com/intent/favorite?tweet_id=551934423852384256>
+
+Who knew playing golf in rain, cold, and wind would kill a handicap...
+
+Posted on 31 Dec
+
+// <https://twitter.com/intent/tweet?in_reply_to=550289911790985216>//
+<https://twitter.com/intent/retweet?tweet_id=550289911790985216>//
+<https://twitter.com/intent/favorite?tweet_id=550289911790985216>
+
+
+    R. Todd Stephens
+
+Technology Professional.
+
+R. Todd Stephens
+
+
+      //Technical Skills
+
+
+          UI/UX Design
+
+
+          HTML / CSS3 / JQuery
+
+
+          Information Architecture
+
+
+          Data Architecture
+
+
+          Enterprise Architecture
+
+
+          Metadata Management
+
+ 
+
+
+      //Business Skills
+
+
+          Collaboration
+
+
+          Communication
+
+
+          Social Media
+
+
+          Resource Development
+
+
+          Leadership
+
+ 
+
+
+      //Tools
+
+SharePoint // // // // //
+SharePoint Designer // // // // //
+Microsoft Office // // // // //
+Adobe Acrobat // // // // //
+Adobe Illustrator // // // // //
+Adobe Illustrator // // // // //
+Adobe Photoshop // // // // //
+Adobe Dreamweaver // // // // //
+
+
+      Social Profiles
+
+  * // <http://www.facebook.com/rtodd>
+  * // <http://www.linkedin.com/in/rtodd>
+  * // <http://www.twitter.com/rtodd>
+  * // <http://www.slideshare.net/rtodd>
+
+
+      Professional Profile
+
+Currently, I am a Senior Technical Architect working for the AT&T
+Corporation in Atlanta, GA. Over the years, I have served as the
+technical architect for setting the corporate strategy and architecture
+for the development and implementation of Enterprise Metadata
+Repositories (knowledge stores), Online Ordering for internal
+procurement, Collaboration tools, Web 2.0 and Wireless technologies.
+Today, I spend most of my time performing the function of Desktop
+Software Architect and Cloud Computing.
+
+For the past 32 years, I have worked in the Information Technology field
+including leadership positions at: AT&T, BellSouth, Cingular,
+Georgia-Pacific, The Coca-Cola Company, Southern Linen, Fannie Mae
+Software Systems, Lummus Industries, and The Georgia Company.
+
+While I am an Architect by day, I love web design and the fundamentals
+of information architecture. I use this web site to learn new
+technologies and how design can enable trust. Between 2003 through 2007,
+I wrote a monthly column in DMReview and delivered keynotes, tutorials
+and educational sessions for a wide variety of technology conferences
+around the world. I am a student of organizations trying to get a handle
+on their internal knowledge management- how they acquire, how they
+broker it, and how they disseminate it through out the corporation.
+Understanding information has replaced physical assets as the driver of
+value leads me to believe that the management of those information-based
+assets is critical to the future growth of business. On this, I have
+been awarded Fifteen U.S. patents in the field of technology.
+
+I hold degrees in Mathematics and Computer Science from Columbus State
+University, an MBA degree from Georgia State University, and a Ph.D. in
+Information Systems from Nova Southeastern University. The majority of
+my research is focused on Metadata Reuse, Cloud Computing, Repository
+Design, Enabling Trust within the Internet, Usability and Repository
+Frameworks. In addition, I have co-authored various books on Service
+Oriented Architectures, Open Source, Enterprise 2.0, Virtual
+Environments, and Integrating Web 2.0 technologies.
+
+ 
+
+
+      Awards and Honors
+
+  * AT&T /BellSouth Patent Achievement Award (2002, 2004, 2005, 2013)
+  * CIO Award (Top IT Award), IT Wall of Stars, IT Rewards
+  * Top 4 Metadata Implementations Industry Award (2002)
+  * Outstanding Enterprise Metadata Implementation Industry Award (2003)
+  * AT&T Fellow Nominee (2008)
+
+ 
+
+
+      Certifications
+
+  * MCTS: Microsoft Office Share Point Server 2007 (2007)
+  * MCTS: Windows SharePoint Services 3.0 (2007)
+
+ 
+
+
+      Citations
+
+  * Google Scholar (133)
+    <http://scholar.google.com/citations?user=j2l91PkAAAAJ&hl=en&oi=ao>
+
+
+      Quick Stats
+
+
+    //32
+
+
+      Years of Experience
+
+
+    //15
+
+
+      Patents
+
+
+    //100+
+
+
+      Publications
+
+
+    Publications
+
+Professional and Academic Publications.
+
+//
+
+
+        Patents (15)
+
+Creativity is thinking up new things. Innovation is doing new things.
+These patents span the field of technology from Metadata Management to
+Cloud Computing.
+
+View Patents
+//
+
+
+        Academic Publications (12)
+
+One thing I learned during my doctorate is that giving back to the the
+academic environment is critical. I am a firm believer in the
+responsibility of expanding the body of knowledge.
+
+View Publications Research Interests
+//
+
+
+        Books and Book Chapters (12)
+
+These books range from topics about Data Management to Collaborative
+Solutions. Some did better than others; Trademark 2.0 hit the top 10% on
+Amazon.com in 2007.
+
+View Books and Chapter Contributions
+//
+
+
+        Books Edited (5)
+
+While writing is an important aspect to my career, helping other authors
+is also critical in ensuring all points of view are realized.
+
+View Edited Books
+//
+
+
+        Professional Presentations (41)
+
+For a few years, I had the opportunity to travel around the world and
+present innovative ideas on Metadata Management and Collaborative
+Technologies.
+
+View Presentations
+//
+
+
+        Professional Publications (68)
+
+These publications include a professional monthly column which ran from
+2003 through 2007.
+
+View Publications
+*Work in Progress: * A Requirements Approach for Building an Enterprise
+Cloud Service Catalog. (IEEE, Academic Publication).
+
+
+    Trademark 2.0
+
+Defining Your Value in a Web 2.0 World.
+
+My Book
+
+Globalization has taken on a whole new definition and meaning since 1999
+when only a few organizations sent work overseas during the Y2k crises.
+Today, just about every organization is trying to stay competitive by
+sending operations, development, and design to countries such as India,
+China, or Russia. For the information worker the facts can be unnerving
+to say the least. While the percent of jobs lost due to outsourcing
+remains in the single digits, no one can deny the trend of exponential
+growth will continue. With research firms continuously publishing
+reports on how organizations can leverage technology from these
+countries, there will be no shortage of fear in the coming years.
+
+Hardly an information technology book or magazine can be picked up that
+does not mention the focus to achieve enterprise effectiveness or share
+information in a manner that allows the organization to react in an
+effective manner across the entire supply chain. The result of these
+efforts to lower the costs and gain a competitive advantage within the
+supply chain has lead to a much more diverse community of individual
+suppliers. This transformation from hierarchal controlling structures to
+distributed flat organizations has created what Dan Pink calls the Free
+Agent Nation. The reality is that free agents may not come from next
+door but rather the next country. Employees need to adapt by creating
+unique value propositions that are captured with their Trademark. This
+book will discuss several dimensions of building a personal Trademark.
+Unlike other books on this subject, this book will focus on the "How" an
+individual can move from local labor to global talent in the new world
+defined as Enterprise 2.0. Enterprise 2.0 commonly refers to
+organizations that operate under an open communication model where
+interaction and communication is encouraged from the top down.
+Enterprises are accomplishing this feat by not only addressing the
+technology requirements of Web 2.0 but the social and organizational
+changes required to sustain a competitive advantage.
+
+View Reader Comments
+
+// Available at Amazon.com
+<http://www.amazon.com/Trademark-2-0-Defining-Value-World/dp/0615156886/ref=sr_1_1/102-8972864-7012959?ie=UTF8&s=books&qid=1190578701&sr=8-1>
+// Available at Barnes and Noble
+<http://www.barnesandnoble.com/w/trademark-2-0-todd-todd-stephens/1012570223?ean=9780615156880>
+
+
+
+    Resume
+
+My Education and Experience.
+
+
+      Education
+
+
+    Doctor of Philosophy (Ph.D.)
+
+Information Systems
+
+*Awards / Honors: *Upsilon Pi Epsilon (Computer Science Honor Society),
+Texas Tech University, 2003, 2004
+
+*Dissertation:* A Framework for the Identification of Electronic
+Commerce Design Elements that Enable Trust within the Small Hotel
+Industry. Download. <assets/pdf/final.pdf>
+
+*Published:* Proceedings of the 42nd Annual ACM Southeast Conference
+<http://dl.acm.org/citation.cfm?id=986537> (Published in 2004, 29
+Citations).
+
+*Dissertation Committee:* Maxine S. Cohen, Ph.D. (Chair)
+<http://www.scis.nova.edu/~cohenm/>, Frank Nasuti, Ph.D.
+<http://www.scis.nova.edu/~nasutif/>, and Easwar Nyshadham, Ph.D.
+<http://scis.nova.edu/~easwar/research.htm>
+
+------------------------------------------------------------------------
+
+
+          Nova Southeastern University <http://www.nova.edu>
+
+// Fort Lauderdale, Fl
+// 2004
+------------------------------------------------------------------------
+
+
+    Masters of Business Administration (M.B.A.)
+
+Information Systems Management
+
+*Awards / Honors: *Georgia State University Deans List, 1989, 1990
+
+------------------------------------------------------------------------
+
+
+          Georgia State University <htt://www.gsu.edu>
+
+// Atlanta, GA
+// 1990
+------------------------------------------------------------------------
+
+
+    Bachelor of Science (B.S.)
+
+Mathematics / Computer Science
+
+------------------------------------------------------------------------
+
+
+          Columbus State University <http://www.columbusstate.edu>
+
+// Columbus, GA
+// 1986
+------------------------------------------------------------------------
+
+
+      Experience
+
+
+    Senior Technical Architect
+
+AT&T Corporation, Atlanta, GA: August 1997 - Present
+BellSouth Corporation, Atlanta, GA (Technical Director): 1999-2006
+Cingular Wireless, Atlanta, GA (Sr. Technical Architect): 1997-1999
+
+
+            Areas of Responsibility
+
+  * Cloud Computing
+  * Collaborative Technology and Social Media
+  * Technical, Data, Desktop, and Application Architecture
+  * Enterprise Architecture
+  * Enterprise Metadata and Repository Services
+
+------------------------------------------------------------------------
+
+
+        AT&T
+
+// Atlanta, GA
+// 1997 - 2014
+------------------------------------------------------------------------
+
+
+    Lead Systems Analyst
+
+
+            Areas of Responsibility
+
+  * Enterprise Desktop Support
+  * Human Resources Applications
+  * Application Design, Analysis, and Development
+  * Enterprise Architecture
+  * Team Management (45 Employees)
+
+------------------------------------------------------------------------
+
+
+        Georgia-Pacific Company
+
+// Atlanta, GA
+// 1996 - 1997
+------------------------------------------------------------------------
+
+
+    Senior Systems Technologist
+
+  * Office Productivity
+  * Backend Email Systems
+  * Application Design, Analysis, and Development 
+
+------------------------------------------------------------------------
+
+
+        The Coca-Cola Company
+
+// Atlanta, GA
+// 1990 - 1996
+------------------------------------------------------------------------
+Download CV/Resume for Employers from *1983 to 1990*
+// Download Resume <assets/pdf/Resume.pdf> // Download CV
+<assets/pdf/CV.pdf>
+
+
+      Current and Former Employers
+
+Past Employer
+
+
+        AT&T
+
+Past Employer
+
+
+        BellSouth
+
+Past Employer
+
+
+        Cingular Mobility
+
+Past Employer
+
+
+        Georgia Pacific
+
+Past Employer
+
+
+        The Coca-Cola Company
+
+Past Employer
+
+
+        Southern Linen
+
+Past Employer
+
+
+        Fannie Mae Software Systems
+
+Past Employer
+
+
+        Lummus Industries
+
+Past Employer
+
+
+        The Georgia Company
+
+
+    Evolution of Design
+
+Design is important and a huge interest for me personally. I started my
+Personal Brand site development back in 1999 and as you can see from the
+designs there has been some level of progress over the years. More than
+anything, it's interesting to see the design differences. I love making
+things better and more useful, design allows me to do just that.
+
+My Website
+
+
+    2014
+
+My latest version based on Bootstrap and is responsive across a variety
+of devices.
+
+My Website
+
+
+    2010
+
+Perhaps the longest version in production of RTodd.com. The site served
+me for almost 4 years.
+
+My Website
+
+
+    2009
+
+Added JQuery to showcase the element of interactivity and pull the user
+into the site.
+
+My Website
+
+
+    2007
+
+Check out that Wood Background as well as other technology elements like
+RSS.
+
+My Website
+
+
+    2006
+
+A business card version of the home page with an integrated blog with
+over 1,000 entries.
+
+My Website
+
+
+    2005
+
+Ok, check out the hour by hour header which changed based on the time of
+day and moon phase.
+
+My Website
+
+
+    2004
+
+At the hight of our Metadata Journey, this site shared our best practices.
+
+My Website
+
+
+    2002
+
+Integrated Flash Header and a clear movement toward usability and HCI
+techniques (Learned in Class).
+
+My Website
+
+
+    2001
+
+The first iteration of my website (RTodd.com) and my first step in
+personal branding.
+
+My Website
+
+
+    2000
+
+TrustStudy.com was used for my Dissertation and serving as the survey
+instrument.
+
+My Website
+
+
+    1999
+
+PhDSurvey.com was the very first production site to showcase my Ph.D.
+journey.
+
+
+    Favorite Things
+
+Here are a few of my favorite things.
+
+  *
+
+
+          Sweet Pea
+
+    Our wonderful dog and companion.
+
+  *
+
+
+          Sking
+
+    Great Weekend Getaway.
+
+  *
+
+
+          My Family
+
+    A few years ago.
+
+  *
+
+
+          Vacation
+
+    Fort Walton Beach, FL.
+
+  *
+
+
+          Our Kids
+
+    When they were young.
+
+  *
+
+
+          My Family
+
+    Vacationing in the Mountains
+
+  *
+
+
+          1985 300ZX
+
+    My favorite car.
+
+  *
+
+
+          Golf
+
+    Golf, Golf, Golf.
+
+// Copyright 2015 R. Todd Stephens, Ph.D. All rights reserved.
+
+  * // <http://www.facebook.com/rtodd>
+  * // <http://www.linkedin.com/in/rtodd>
+  * // <http://www.twitter.com/rtodd>
+  * // <http://www.slideshare.net/rtodd>
+  * // <mailto:todd@rtodd.com>
+
+X
+
+
+      United States Patents (15)
+
+*8,874,560: *Determining Sort Order by Distance Controls for Plurality
+of Results, 2014.
+
+*8,799,274: *Cross Functional Topic Maps, 2014.
+
+*8,745,043: *Determining Sort Order by Distance Foundational Elements, 2014.
+
+*8,510,293: *Methodology for Determining Sort Order via Distance
+Controls, 2013.
+
+*8,347,231: *Methods, Systems, and Computer Program Products for
+Displaying Tag Words for Selection by Users Engaged in Social Tagging of
+Content, 2012.
+
+*8,335,824: *Methods, Systems, And Computer Program Products For
+Providing Metadata Subscription Services, 2012.
+
+*8,301,621: *Topic Map For Navigational Control, 2012.
+
+*8,156,112: *Determining Sort Order by Distance, 2012.
+
+*7,353,534: *Establishing a Trusted Network via Metadata, 2003.
+
+*7,349,950: *Dynamic Metadata Framework, 2002.
+
+*7,283,989: *Metadata Framework, 2002.
+
+*7,206,785: *Impact Analysis with Metadata, 2002.
+
+*7,200,820: *Verification Views of Web-Based Metadata, 2002.
+
+*6,968,339: *Data Quality through a Genetic Algorithm and Metadata, 2001.
+
+*6,760,734: *"STEPS" Methodology The State Transition Enterprise Process
+Methodology or "STEP", 2000.
+
+Two additional patent applications are *Patent Pending*.
+Close
+X
+
+
+      Reader Comments
+
+    "Some of the author's points challenge conventional thinking and
+    really made me re-evaluate some of my career and personal marketing
+    plans. I really enjoyed some of the marketing ideas and intend to
+    pursue several of them. I highly recommend this book to anyone in
+    the IT or high tech world." - Unknown.
+
+------------------------------------------------------------------------
+
+    "Those who have already read books from Eddie Obeng, Thomas
+    Friedman, and James Martin will be familiar with the concepts and
+    possibilities of the NewWorld and will recognize many of it's
+    rapidly growing realities. With their `NewWorld of 2.0' `light
+    switched on', they will be hungry to learn, and receptive to the
+    `what' and `how' ideas that Trademark 2.0 has to offer. They will
+    just get the `why', and get on with the process of learning. Please
+    don't be misled by the title. The `2.0' is not something that only
+    applies to techies. Whilst anyone who works in technology should
+    have heard of '2.0' and will be more familiar with the subjects and
+    capabilities talked about, such as blogs and wiki's, collaboration
+    and knowledge management, it would be wrong, very wrong, to see this
+    book as a book solely for techies. It's highly relevant to everyone.
+    This book should trigger deep and profound thought. If it doesn't,
+    there is probably a book called `In blissful ignorance' or perhaps
+    `doomed' that needs to be written for you. For everyone else,
+    Trademark 2.0 will have been time and money well spent." - A. Brooks.
+
+------------------------------------------------------------------------
+
+    "I really enjoyed reading Trademark 2.0. The author used examples
+    throughout the book that perfectly illustrated his points. Some of
+    the author's points challenge conventional thinking and really made
+    me re-evaluate some of my career and personal marketing plans. I
+    really enjoyed some of the marketing ideas and intend to pursue
+    several of them. I highly recommend this book to anyone in the IT or
+    high tech world" - Unknown
+
+------------------------------------------------------------------------
+
+    "R. Todd Stephens is a very interesting man. I've met him and have
+    sat through an incredibly interesting tutorial he gave back in 2006
+    in London on Enterprise Metadata. What interested me most about his
+    presentation was how he was referring to tools and technologies that
+    I was tinkering with to try and improve communication of key
+    concepts and improve efficiencies in information management in my
+    day job. Indeed, some of the tools were things I was playing with
+    outside of work as a hobbyist blogger. It's a pity I haven't had a
+    chance to implement too much of the vision that he triggered in my
+    mind at that time for improvements in the day job, but who knows
+    what might happen by the end of the year.
+
+------------------------------------------------------------------------
+
+    He has recently published a book that sets out a recipe for
+    establishing your personal brand (he uses the term trademark for a
+    variety of reasons). Part of his thesis is that the collaborative
+    tools of Web2.0 (the Read/Write Web as it is often called) have
+    altered the rules for creating your personal brand and provide you
+    with opportunities to raise your profile and, importantly, to
+    measure how your profile is doing.
+
+------------------------------------------------------------------------
+
+    What sets this book apart in my eyes is that Todd adds value in
+    interesting ways. Apart from just presenting bland statements about
+    how "blogs are good" and conferences are great ways to see new
+    places and meet new people, he presents a set of tools to measure
+    and score how well your "trademark" is doing. He also sets out a
+    reasoned argument as to why establishing a personal trademark for
+    yourself may well be the career survival tool for the Read/Write
+    Information Age.
+
+------------------------------------------------------------------------
+
+    He brings together a variety of references and marries them together
+    in support of his argument - and above all he provides examples of
+    how you can 'speak with data' to track how well you are meeting or
+    exceeding your own expectations of what your "brand" might be. From
+    checking the site stats for your blog to your technorati rankings to
+    having a 'scorecard' of the things you've done to promote your
+    brand, Todd give some keen insights.
+
+------------------------------------------------------------------------
+
+    The fact that he is a world-class recognized authority on the
+    management of meta-data is evidence of the success of his formula.
+    The book at times reads somewhat autobiographically and it is clear
+    that this is not a book based on a theoretical view of things or an
+    attempt to leap on the airport business bookshelf bandwagon but
+    rather an attempt to share a recipe that has worked.
+
+------------------------------------------------------------------------
+
+    I'll certainly be taking stock of how I'm doing. This blog is a key
+    part of my personal trademark but after reading Todd's book I think
+    that I might need to balance the scorecard a little bit more. The
+    framework he presents gives me a road map to do this." - D. O'Brien.
+
+------------------------------------------------------------------------
+
+    "I think trademark 2.0 is an excellent guide book for this race of
+    NewWorld'ers who have the expertise but lack the ability to channel
+    that knowledge and experience using new media and all the toys that
+    web2.0 can provide" - D. Jones.
+
+Close
+X
+
+
+      Academic Publications (12)
+
+Stephens, R. Todd (2013). *Defining Success in a Large Scale Social
+Media Environment*. Proceedings of the IEEE SoutheastCon 2013
+Conference. Jacksonville, FL: Institute of Electrical and Electronics
+Engineers, Inc.
+
+Stephens, R. Todd (2005). *Integrating Consumer Taxonomies within the
+Enterprise Metadata Environment*. Proceedings of the 2nd International
+Conference on Knowledge Management. Charlotte, NC: Information and
+Knowledge Management Society. (refereed)
+
+Stephens, R. Todd (2005). *Branding and Marketing E-Business Systems*.
+Proceedings of the 2005 INFORMS Marketing Science Conference. Atlanta,
+GA: Institute for Operations Research and the Management Sciences.
+(refereed)
+
+Stephens, R. Todd (2005). *Enterprise Metadata: Theory, Methodology, and
+Case Study*. Proceedings of the IEEE SoutheastCon 2005 Conference. Ft.
+Lauderdale, FL: Institute of Electrical and Electronics Engineers, Inc.
+
+Stephens, R. Todd (2005). *Implementing Enterprise Reuse*. Proceedings
+of the 43rd annual ACM Southeast Conference. Kennesaw, GA: The
+Association of Computing Machinery. (refereed)
+
+Stephens, R. Todd (2005). *Enterprise Metadata: Theory, Methodology, and
+Case Study*. Proceedings of the 38th Hawaii International Conference in
+Systems Science. Waikoloa, HI: Institute of Electrical and Electronics
+Engineers, Inc.
+
+View additional publications by downloading the CV below.
+//Download CV <assets/pdf/CV.pdf> Close
+X
+
+
+      Books and Book Chapters (12)
+
+Stephens, R. Todd (2014). *Design Considerations for a Corporate Cloud
+Service Catalog*. Enterprise Management Strategies in the Era of Cloud
+Computing. Hershey, PA: IGI Global Inc. (Co-Author; ISBN: TBD)
+
+Stephens, R. Todd (2013). *Empirical Analysis of a Large Scale Corporate
+Blogging Environment*. Encyclopedia of IS&T. Hershey, PA: IGI Global
+Inc. (Co-Author; ISBN: 978-1466658882)
+
+Stephens, R. Todd (2012). *Usability Impact Analysis of Collaborative
+Environments*. In Usability Engineering: Design and Development of
+Digital Products. Hershey, PA: Idea Group Inc. (Co-Author; ISBN:
+978-1466640467)
+
+Stephens, R. Todd (2011). *Integrating Social Media into Electronic
+Commerce Applications*. In Strategic and Pragmatic E-Business:
+Implications for Future Business Practices. Hershey, PA: Idea Group Inc.
+(Co-Author; ISBN: 978-1466616196)
+
+Stephens, R. Todd (2011). *Web 2.0: Integration Model with Electronic
+Commerce*. Business Organizations and Collaborative Web: Practices,
+Strategies and Patterns. Hershey, PA: Idea Group Inc. Co-Author; ISBN:
+978-1609605827)
+
+Stephens, R. Todd (2007). *Trademark 2.0: Defining Your Value in the Web
+2.0 World*. Wilmington, NC: Lulu Inc. (Author; ISBN: 978-0615156880)
+
+View additional books by downloading the CV below.
+//Download CV <assets/pdf/CV.pdf> Close
+X
+
+
+      Books Edited (5)
+
+McComb, D. (2004). *Semantics in Business Systems: The Savvy Manager's
+Guide*. Boston, MA: Morgan Kaufmann Publishers. (Editor; ISBN:
+155-860-917-2)
+
+Betz, C. (2006). *Architecture and Patterns for IT Service Management,
+Resource Planning, and Governance: Making Shoes for the Cobbler's
+Children*. Boston, MA: Morgan Kaufmann Publishers. (Reviewer, ISBN:
+012-370-593-2)
+
+Addy, R. (2008). *Effective IT Service Management: To ITIL and Beyond*.
+Boston, MA: Morgan Kaufmann Publishers. (Reviewer, ISBN: 978-3540731979)
+
+Hageman , S. & Vossen, G. (2008). *Web 2.0*. Morgan Kaufmann Publishers.
+(Reviewer, ISBN: 978-0123740342)
+
+McGilvray, D. (2008). *Executing Data Quality Projects: Ten Steps to
+Quality Data and Trusted Information*. Morgan Kaufmann Publishers.
+(Reviewer, ISBN: 978-0123743695)
+
+Close
+X
+
+
+      Professional Presentations (41)
+
+Invited Session *Integrating Social Media into the CRM Function*.
+Customer Service Business Summit, Atlanta, GA: September 2, 2011.
+
+Invited Session *Enterprise 2.0 and the PMO Professional*. AT&T,
+Atlanta, GA: October 3, 2008. (Voted Top 5 Presentation)
+
+Keynote Address: *Enterprise 2.0 and the EIM Professional*. Enterprise
+Information Management Conference, Toronto, Canada, June 18, 2008.
+
+Invited Session: *Customer Centric Strategy for Enterprise 2.0*.
+Decisions, Information & Governance, Las Vegas, NV, May 15, 2008.
+
+Invited Workshop: *Web 2.0 and the Data Professional*. Metadata
+Symposium, New York, NY, November 1, 2007.
+
+Invited Session: *Value Creation in Enterprise 2.0*. 12th Annual
+Information Technology Trends Conference, Orlando, FL, February 21, 2007.
+
+Invited Workshop: *Integrating Web 2.0 Technologies (Metadata 2.0)*.
+DAMA International Symposium and Wilshire Metadata Conference, Boston,
+MA, March 4, 2007.
+
+Invited Sessions: *Metadata 2.0: The Next Evolution in Metadata
+Services*. San Francisco DAMA Day, San Ramon, CA, December 11, 2006.
+
+View additional presentations by downloading the CV below.
+//Download CV <assets/pdf/CV.pdf> Close
+X
+
+
+      Professional Publications (68)
+
+*Data Management Review Online *(2003-2006).
+
+*Data Management Review Magazine *(2006).
+
+*The Data Administration Newsletter *(2004-2006).
+
+*IRM UK's Strategic IT Newsletter *(2003-2006).
+
+*Metadata Research Trends *(2005).
+
+*Business Intelligence Report *(2003).
+
+*Data Management Direct *(2003).
+
+View publication details by downloading the CV below.
+//Download CV <assets/pdf/CV.pdf> Close
+X
+
+
+      Research Interests
+
+// Collaboration
+
+// Cloud Computing
+
+// Architecture Governance
+
+// Data Architecture
+
+// Knowledge Management
+
+// Information Architecture
+
+// Web Design
+
+	
+
+// Responsive Design
+
+// Online Trust
+
+// Content Management
+
+// Social Media
+
+// Enterprise 2.0
+
+// Metadata Architecture
+
+// Enterprise Architecture
+
+Close

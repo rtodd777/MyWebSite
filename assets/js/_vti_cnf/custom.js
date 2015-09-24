@@ -1,0 +1,10 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|24 Dec 2014 01:57:45 -0000
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|MStone-v1.2/Site/Slideshow/index.html MStone-v1.2/Site/Slideshow/components.html MStone-v1.2/Site/Slideshow/rtodd.html MStone-v1.2/Site/Slideshow/rtodda.html MStone-v1.2/Site/Slideshow/rtoddb.html
+vti_author:SR|ITSERVICES\\ts1809
+vti_modifiedby:SR|ITSERVICES\\ts1809
+vti_nexttolasttimemodified:TW|24 Dec 2014 01:56:52 -0000
+vti_timecreated:TR|24 Dec 2014 01:56:52 -0000
+vti_cacheddtm:TX|24 Dec 2014 01:57:45 -0000
+vti_filesize:IR|6204
